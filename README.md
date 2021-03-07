@@ -49,6 +49,9 @@
 ### Server-Side flow chart
 ![](https://images.velog.io/images/unow30/post/81b010bc-57a9-4149-b2d6-42487ac00d8a/image.png)
 
+### Database schema
+ <a href="https://dbdiagram.io/d/5fe15b5c9a6c525a03bbeb6b/">https://dbdiagram.io/d/5fe15b5c9a6c525a03bbeb6b</a>
+![image](https://user-images.githubusercontent.com/68832684/110230368-c8a1eb80-7f53-11eb-8d34-0d508c1f1fe3.png)
 
 # 🗣 우리를 소개합니다.
 
